@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Model artifacts (large files - consider Git LFS)
+*.pkl
+*.joblib
+*.model
+
+# Data files (large)
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/*.log
+
+# Thesis documents (optional - keep if you want version control)
+# *.docx
+# *.pdf
