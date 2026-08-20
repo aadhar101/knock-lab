@@ -1,0 +1,98 @@
+{
+  "situation": {
+    "Through Ball": {
+      "conversion_rate": 0.09608162451394198,
+      "modifier": 1.009769889376387,
+      "shots": 30089,
+      "goals": 2891
+    },
+    "Counter Attack": {
+      "conversion_rate": 0.1270927955886466,
+      "modifier": 1.3356818100370629,
+      "shots": 75079,
+      "goals": 9542
+    },
+    "Set Piece": {
+      "conversion_rate": 0.06353429379381892,
+      "modifier": 0.667713698018107,
+      "shots": 59763,
+      "goals": 3797
+    },
+    "Open Play": {
+      "conversion_rate": 0.07426452486459872,
+      "modifier": 0.7804830677715521,
+      "shots": 324960,
+      "goals": 24133
+    },
+    "Penalty": {
+      "conversion_rate": 0.7135226036205362,
+      "modifier": 7.498766222680934,
+      "shots": 10109,
+      "goals": 7213
+    }
+  },
+  "previous_action": {
+    "Pass": {
+      "conversion_rate": 0.09952357863176765,
+      "modifier": 1.045943108203376,
+      "shots": 224801,
+      "goals": 22373
+    },
+    "Dribble": {
+      "conversion_rate": 0.09641341766071572,
+      "modifier": 1.0132568696476765,
+      "shots": 124910,
+      "goals": 12043
+    },
+    "Cross": {
+      "conversion_rate": 0.07318936877076412,
+      "modifier": 0.7691837141706336,
+      "shots": 90300,
+      "goals": 6609
+    },
+    "Through Ball": {
+      "conversion_rate": 0.11848789720091643,
+      "modifier": 1.2452486253669544,
+      "shots": 20078,
+      "goals": 2379
+    },
+    "Rebound": {
+      "conversion_rate": 0.10453258500162863,
+      "modifier": 1.0985852635953908,
+      "shots": 39911,
+      "goals": 4172
+    }
+  },
+  "player_position": {
+    "Forward": {
+      "conversion_rate": 0.10377437777395356,
+      "modifier": 1.0906168842899104,
+      "shots": 249869,
+      "goals": 25930
+    },
+    "Midfielder": {
+      "conversion_rate": 0.08427743980182871,
+      "modifier": 0.8857138031972918,
+      "shots": 109804,
+      "goals": 9254
+    },
+    "Winger": {
+      "conversion_rate": 0.09675201753512006,
+      "modifier": 1.0168153852270059,
+      "shots": 100370,
+      "goals": 9711
+    },
+    "Defender": {
+      "conversion_rate": 0.07052976327281085,
+      "modifier": 0.7412325886246306,
+      "shots": 34808,
+      "goals": 2455
+    },
+    "Goalkeeper": {
+      "conversion_rate": 0.043892017867547095,
+      "modifier": 0.4612831876108447,
+      "shots": 5149,
+      "goals": 226
+    }
+  }
+}

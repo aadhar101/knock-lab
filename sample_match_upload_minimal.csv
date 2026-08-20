@@ -1,0 +1,5 @@
+match_id,minute,player,team,match_team1,match_team2,match_goals1,match_goals2,match_score_diff,shot_x,shot_y,gk_x,gk_y,target_goal,distance,body_part,goal,on_target,shot_end_x,shot_end_y,shot_speed,xg,psxg,shot_type,situation,previous_action,player_position,under_pressure,first_touch
+TEST_MIN_001,12,Striker A,Team A,Team A,Team B,1,0,0,99.5,34.0,103.5,34.0,right,5.5,Right Foot,true,true,1.20,1.95,90,0.40,0.95,Shot,Counter Attack,Through Ball,Forward,false,true
+TEST_MIN_001,28,Striker B,Team B,Team A,Team B,1,0,0,93.0,30.0,104.0,34.0,right,12.5,Left Foot,false,true,5.80,1.10,84,0.10,0.55,Shot,Open Play,Pass,Forward,true,false
+TEST_MIN_001,45,Striker A,Team A,Team A,Team B,1,0,1,87.0,38.0,104.0,34.5,right,18.2,Right Foot,false,false,0,0,98,0.04,,Shot,Open Play,Pass,Forward,false,false
+TEST_MIN_001,67,Midfielder C,Team B,Team A,Team B,1,0,-1,76.0,34.0,104.0,34.0,right,29.0,Right Foot,false,false,0,0,108,0.012,,Shot,Open Play,Dribble,Midfielder,true,false

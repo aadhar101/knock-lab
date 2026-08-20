@@ -1,0 +1,25 @@
+{
+  "body_part": {},
+  "shot_type": {
+    "Shot": {
+      "conversion_rate": 0.10387040238227781,
+      "modifier": 1.0916260549676078,
+      "shots": 375439,
+      "goals": 38997
+    },
+    "Volley": {
+      "conversion_rate": 0.08205138490543332,
+      "modifier": 0.8623190779535198,
+      "shots": 49859,
+      "goals": 4091
+    },
+    "Header": {
+      "conversion_rate": 0.06007871275200129,
+      "modifier": 0.6313972670254044,
+      "shots": 74702,
+      "goals": 4488
+    }
+  },
+  "first_touch_modifier": 1.00125281059041,
+  "under_pressure_modifier": 0.6339183981541683
+}
